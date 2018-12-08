@@ -1,1 +1,5 @@
 # blog
+
+---
+
+No longer maintained.
